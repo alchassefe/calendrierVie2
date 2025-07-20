@@ -75,7 +75,7 @@ for (let i = 1; i <= 50; i++) {
     if (openedDays.includes(i)) {
         div.classList.add("opened");
         div.innerHTML = `<img src="${data.img}" alt="Jour ${i}"><div class="case-text">${i}</div>`;
-    } else if (i === currentDay) {
+    } else if (i <= currentDay) {
         div.innerHTML = `<div class="case-text">${i}</div>`;
     } else {
         div.classList.add("locked");
