@@ -56,14 +56,14 @@ const phrases = [
     { img: "Images/jour40.jpg", text: "Tu as bien changé (sauf ton nez)" },
     { img: "Images/jour41.jpg", text: "Cet oreiller me manque" },
     { img: "Images/jour42.jpg", text: "Je vais bientot pouvoir t'embrasser comme ça" },
-    { img: "Images/jour43.jpg", text: "Une grosse marmotte" },
-    { img: "Images/jour44.jpg", text: "Une grosse marmotte" },
-    { img: "Images/jour45.jpg", text: "Une grosse marmotte" },
-    { img: "Images/jour46.jpg", text: "Une grosse marmotte" },
-    { img: "Images/jour47.jpg", text: "Une grosse marmotte" },
-    { img: "Images/jour48.jpg", text: "Une grosse marmotte" },
-    { img: "Images/jour49.jpg", text: "Une grosse marmotte" },
-    { img: "Images/jour50.jpg", text: "Une grosse marmotte" },
+    { img: "Images/jour43.jpg", text: "Mais tu essaie tout le temps de me bisouiller" },
+    { img: "Images/jour44.jpg", text: "Interdit de toucher mon corps comme ça" },
+    { img: "Images/jour45.jpg", text: "Avec Dimitri l'âne" },
+    { img: "Images/jour46.jpg", text: "La vie bien à sa place dans mes bras" },
+    { img: "Images/jour47.jpg", text: "Les bébés vies de sortie" },
+    { img: "Images/jour48.jpg", text: "Ma petite neuille d'amour" },
+    { img: "Images/jour49.jpg", text: "Notre premier selfie" },
+    { img: "Images/jour50.jpg", text: "J'arrive vieeeeeeeee" },
 ];
 
 for (let i = 1; i <= 50; i++) {
